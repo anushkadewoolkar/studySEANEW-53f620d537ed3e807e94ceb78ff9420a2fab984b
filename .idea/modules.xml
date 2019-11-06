@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studySEANEW-53f620d537ed3e807e94ceb78ff9420a2fab984b.iml" filepath="$PROJECT_DIR$/studySEANEW-53f620d537ed3e807e94ceb78ff9420a2fab984b.iml" />
+    </modules>
+  </component>
+</project>
