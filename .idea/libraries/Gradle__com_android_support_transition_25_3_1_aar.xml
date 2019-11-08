@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:transition:25.3.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/7bb9ecc45d7fc27bd4bf1852022eab3a0def2bd4/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/7bb9ecc45d7fc27bd4bf1852022eab3a0def2bd4/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/158dca000d58a8094619f04878f476108c4b34dd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/158dca000d58a8094619f04878f476108c4b34dd/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
